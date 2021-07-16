@@ -10,7 +10,7 @@ mvn clean test
 & expect tests to pass.
 
 
-#### Using v. 2.11.4
+#### Using v. 2.12.3
 
 Run with
 ```shell
